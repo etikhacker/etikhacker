@@ -29,7 +29,7 @@
 - **[CityAI](https://cityai-asan.vercel.app)** — Citizen complaint platform using Claude Vision API
 - **[EkoAI](https://energy-platform-beta.vercel.app)** — AI-powered energy monitoring platform with Telegram bot
 - **[RentHome AZ](https://rent-home-az.vercel.app)** — Rental home platform
-- **[Promptr]((https://promptr-web.vercel.app/))** — Converts short requests into optimized AI prompts
+- **[Promptr](https://promptr-web.vercel.app/)** — Converts short requests into optimized AI prompts
 
 ---
 
