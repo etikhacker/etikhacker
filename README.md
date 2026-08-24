@@ -1,86 +1,57 @@
-<div align="center">
+# Hi there! 👋 I'm Omar Babayev
 
-# Hi, I'm Omar Babayev
+- 🎓 IT student at Mingəçevir State University (2024–2028)
+- 💻 Freelance Full-Stack Developer & AI Integrator
+- 🧠 Currently working on **AI Fluency** & **Backend AI Engineering** as an intern at FlyRank AI
+- 🐍 Also interning as a Python Programming Intern at CodeAlpha
+- 🚀 Build with Next.js, React, TypeScript, Python, FastAPI, Supabase, and AI APIs (Claude, Gemini, OpenRouter)
+- 🌱 Learning cybersecurity, networking, and IT infrastructure
+- 📍 Based in Mingəçevir, Azerbaijan
 
-### AI Integrator · Backend AI Engineer · Full-Stack Developer in Progress
+---
+
+### 🛠️ Languages & Tools
 
 <p>
-  <a href="https://github.com/etikhacker"><img src="https://img.shields.io/badge/GitHub-etikhacker-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,fastapi,supabase,vercel,nodejs,vscode,git,github,html,css" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=180&section=header&text=Building%20useful%20AI%20products&fontColor=ffffff&fontSize=32&animation=fadeIn&fontAlignY=38" width="100%" alt="Building useful AI products banner" />
+---
 
-</div>
+> *"Design is not just what it looks like and feels like. Design is how it works."*
+> — Steve Jobs
 
-## About me
+---
 
-I am an Information Technology student and AI-focused developer from Azerbaijan. I build practical products with Python, FastAPI, Next.js, TypeScript, Supabase, web scraping, and modern AI APIs. My current focus is turning ideas into reliable, clean, and useful software.
+### 🚧 Featured Projects
 
-> I do not just write code — I connect ideas, automation, APIs, and user experience into working products.
+- **[E-Cədvəl / QrupTap](https://e-cedvel.vercel.app)** — Multi-tenant university scheduling SaaS
+- **[CityAI](https://cityai-asan.vercel.app)** — Citizen complaint platform using Claude Vision API
+- **[EkoAI](https://energy-platform-beta.vercel.app)** — AI-powered energy monitoring platform with Telegram bot
+- **[RentHome AZ](https://rent-home-az.vercel.app)** — Rental home platform
+- **Promptr** — Converts short requests into optimized AI prompts
 
-## What I work with
+---
 
-| Area | Tools |
-|---|---|
-| Frontend | Next.js, React, TypeScript, Tailwind CSS |
-| Backend | Python, FastAPI, REST APIs |
-| Data & Cloud | Supabase, PostgreSQL, Vercel |
-| AI & Automation | Claude, Gemini, OpenRouter, prompt engineering |
-| Engineering | Web scraping, cybersecurity fundamentals, networking |
+### 🌐 Socials
 
-## Featured projects
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-babayev-21888437b)
 
-<div align="center">
+---
 
-<a href="https://github.com/etikhacker/CityAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=etikhacker&repo=CityAI&theme=tokyonight&hide_border=true" alt="CityAI project" /></a>
-<a href="https://github.com/etikhacker/EkoAI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=etikhacker&repo=EkoAI&theme=tokyonight&hide_border=true" alt="EkoAI project" /></a>
+### 📊 GitHub Stats
 
-</div>
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=etikhacker&show_icons=true&theme=radical" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=etikhacker&theme=radical" height="165"/>
+</p>
 
-## Currently learning
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etikhacker&layout=compact&theme=radical" height="165"/>
 
-`C++` · `Advanced cybersecurity` · `Network structures` · `AI agents` · `Production backend systems`
+---
 
-## GitHub activity
+### 🐍 Contribution Snake
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="snake animation" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=etikhacker&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etikhacker&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top programming languages" />
-
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=etikhacker&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## Contribution snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
-
-</div>
-
-## Let's connect
-
-If you are building an AI product, developer tool, automation workflow, or backend system, feel free to reach out.
-
-<div align="center">
-
-### Thanks for visiting my profile
-
-<img src="https://komarev.com/ghpvc/?username=etikhacker&style=for-the-badge&color=2563EB" alt="Profile views" />
-
-</div>
-
-<!--
-Setup notes:
-1. Replace YOUR_EMAIL@example.com with your real email.
-2. Replace YOUR_LINKEDIN with your LinkedIn username.
-3. Update the featured repository names if the capitalization differs.
-4. Create this repository as public and name it exactly: etikhacker/etikhacker
-5. Put this README.md in the root directory.
--->
+> ℹ️ Snake animasiyası avtomatik işləmir — repo yaradandan sonra bir GitHub Action əlavə etmək lazımdır (aşağıda izah edirəm).
