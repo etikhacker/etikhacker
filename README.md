@@ -56,6 +56,14 @@ I am an Information Technology student and AI-focused developer from Azerbaijan.
 
 </div>
 
+## Contribution snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" />
+
+</div>
+
 ## Let's connect
 
 If you are building an AI product, developer tool, automation workflow, or backend system, feel free to reach out.
