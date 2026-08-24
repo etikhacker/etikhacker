@@ -29,7 +29,7 @@
 - **[CityAI](https://cityai-asan.vercel.app)** — Citizen complaint platform using Claude Vision API
 - **[EkoAI](https://energy-platform-beta.vercel.app)** — AI-powered energy monitoring platform with Telegram bot
 - **[RentHome AZ](https://rent-home-az.vercel.app)** — Rental home platform
-- **Promptr** — Converts short requests into optimized AI prompts
+- **[Promptr]((https://promptr-web.vercel.app/))** — Converts short requests into optimized AI prompts
 
 ---
 
@@ -53,5 +53,3 @@
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-> ℹ️ Snake animasiyası avtomatik işləmir — repo yaradandan sonra bir GitHub Action əlavə etmək lazımdır (aşağıda izah edirəm).
