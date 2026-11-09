@@ -108,19 +108,20 @@ I also work on **practical web development lessons**, focusing on HTML, CSS, Jav
 
 ## 📊 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=etikhacker&show_icons=true&theme=transparent&hide_border=true" alt="Omar's GitHub statistics" height="165" />
-  <img src="https://streak-stats.demolab.com?user=etikhacker&theme=transparent&hide_border=true" alt="GitHub contribution streak" height="165" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-overview.svg" alt="GitHub overview: contributions, public repositories, stars and streak" width="49%" />
+  <img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-languages.svg" alt="Most-used languages by code bytes in public repositories" width="49%" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etikhacker&layout=compact&theme=transparent&hide_border=true" alt="Most used languages in public GitHub repositories" height="165" />
-</p>
+<sub>Stats are regenerated daily via GitHub Actions and hosted in this repository. The language chart uses public, non-fork repositories.</sub>
 
 ## 🐍 Contribution Activity
 
-<p>
-  <img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="Animated GitHub contributions, clipped to the contribution grid" width="100%" />
+  </picture>
 </p>
 
 ---
