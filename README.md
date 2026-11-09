@@ -1,75 +1,133 @@
-# Hi there! 👋 I'm Omar Babayev
+# Hi, I'm Omar Babayev 👋
 
-- 🎓 IT student at Mingəçevir State University (2024–2028)
-- 💻 Freelance Full-Stack Developer & AI Integrator
-- 🧠 Currently working on **AI Fluency** & **Backend AI Engineering** as an intern at FlyRank AI
-- 🐍 Also interning as a Python Programming Intern at CodeAlpha
-- 🚀 Build with Next.js, React, TypeScript, Python, FastAPI, Supabase, and AI APIs (Claude, Gemini, OpenRouter)
-- 🌱 Learning cybersecurity, networking, and IT infrastructure
-- 📍 Based in Mingəçevir, Azerbaijan
+**Full-Stack Developer · AI Engineering Enthusiast · AI-Assisted / Vibe Coding**
 
----
+I'm an **Information Technology student at Mingachevir State University (2024–2028)**, based in Azerbaijan. I build web applications and AI-assisted products with a focus on practical functionality, user experience, and maintainable architecture.
 
-### 🙋‍♂️ About Me
-
-I build most of my projects using **vibe coding** — actively leveraging AI tools to prototype fast. Besides that:
-
-- 🧩 Interested in **C++** at an intermediate level, enjoy solving algorithmic problems
-- 🎥 Thinking about starting a **YouTube channel** about computers
-- 🗣️ Actively learning English (currently at B1 level), focusing on speaking skills
-- 🌱 Always working on growing as a well-rounded developer
-
----
-
-### 🛠️ Languages & Tools
+I use **vibe coding** to accelerate development, while taking code quality, testing, data security, and deployment seriously.
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,py,fastapi,supabase,vercel,nodejs,vscode,git,github,html,css" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-<img src="https://img.shields.io/badge/-Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <a href="https://www.linkedin.com/in/omar-babayev-21888437b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portfolio-omar-babayev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-181717?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/etikhacker"><img src="https://img.shields.io/badge/GitHub-etikhacker-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
 
-> *"Design is not just what it looks like and feels like. Design is how it works."*
-> — Steve Jobs
+## 👨‍💻 About Me
 
----
+- 🚀 **Full-Stack Development:** Building responsive products with React, Next.js, TypeScript, FastAPI, and Supabase.
+- 🤖 **AI Engineering:** Exploring AI integrations, API-based automation, intelligent workflows, and practical AI applications.
+- 🧠 **Vibe Coding:** Using AI-assisted development to move from ideas to working software, then reviewing and improving the results.
+- 🔐 **Engineering Mindset:** Interested in backend architecture, PostgreSQL, row-level security (RLS), testing, and reliable deployments.
+- 🎓 **Education:** BSc in Information Technology, Mingachevir State University (2024–2028).
 
-### 🚧 Featured Projects
-
-- **[E-Cədvəl / QrupTap](https://e-cedvel.vercel.app)** — Multi-tenant university scheduling SaaS
-- **[CityAI](https://cityai-asan.vercel.app)** — Citizen complaint platform using Claude Vision API
-- **[EkoAI](https://energy-platform-beta.vercel.app)** — AI-powered energy monitoring platform with Telegram bot
-- **[RentHome AZ](https://rent-home-az.vercel.app)** — Rental home platform
-- **[Promptr](https://promptr-web.vercel.app)** — Converts short requests into optimized AI prompts
-
----
-
-### 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-babayev-21888437b)
-
----
-
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=etikhacker&show_icons=true&theme=radical&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=etikhacker&theme=radical" height="165"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,py,fastapi,nodejs,postgres,supabase,git,github,vercel,vscode" alt="Next.js, React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Python, FastAPI, Node.js, PostgreSQL, Supabase, Git, GitHub, Vercel, Visual Studio Code" />
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etikhacker&layout=compact&theme=radical&cache_seconds=86400" height="165"/>
+| Area | Technologies & Practices |
+| --- | --- |
+| **Frontend** | Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS |
+| **Backend & APIs** | Python, FastAPI, Node.js, REST APIs |
+| **Database & Auth** | PostgreSQL, Supabase, Supabase Auth, Row-Level Security (RLS) |
+| **AI & Automation** | OpenAI, Claude, Gemini, AI API integration, prompt engineering |
+| **Workflow & Deployment** | Git, GitHub, Vercel, testing, debugging, AI-assisted development |
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 Talora</h3>
+      <p>A student internship and career-development platform with applications, assignments, feedback, progress tracking, and certificates.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></p>
+      <p><a href="https://talora-az.vercel.app">Live website</a> · <a href="https://github.com/etikhacker/Talora.az">Source code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📅 E-Cədvəl</h3>
+      <p>A multi-tenant university scheduling platform for organizing academic timetables and groups.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></p>
+      <p><a href="https://e-cedvel.vercel.app">Live website</a> · <a href="https://github.com/etikhacker/e-cedvel">Source code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ Energy Platform / EkoAI</h3>
+      <p>An AI-assisted energy monitoring project focused on resource awareness and more sustainable energy use.</p>
+      <p><code>Web App</code> <code>AI Integration</code> <code>Energy</code></p>
+      <p><a href="https://energy-platform-beta.vercel.app">Live website</a> · <a href="https://github.com/etikhacker/energy-platform">Source code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏙️ CityAI</h3>
+      <p>A civic technology project for submitting and analyzing city-related reports using AI-assisted image understanding.</p>
+      <p><code>AI Vision</code> <code>Web App</code> <code>Civic Tech</code></p>
+      <p><a href="https://cityai-asan.vercel.app">Live website</a> · <a href="https://github.com/etikhacker/cityai">Source code</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏠 RentHome AZ</h3>
+      <p>A rental property discovery platform designed to make browsing listings and finding homes easier.</p>
+      <p><code>Web Development</code> <code>UI/UX</code></p>
+      <p><a href="https://rent-home-az.vercel.app">Live website</a> · <a href="https://github.com/etikhacker/RentHome-AZ">Source code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Personal Portfolio</h3>
+      <p>A responsive, bilingual developer portfolio featuring selected projects, technical skills, and contact information.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><a href="https://portfolio-omar-babayev.vercel.app">Live website</a> · <a href="https://github.com/etikhacker/portfolio">Source code</a></p>
+    </td>
+  </tr>
+</table>
+
+## 💼 Professional Experience
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| **Python Programming Intern** | CodeAlpha | Aug–Sep 2026 |
+| **Backend AI Engineering Intern** | FlyRank AI | 2026 |
+| **Web Development Intern** | Thiranex (project-based, remote) | Aug–Sep 2026 |
+| **IT Volunteer** | ASAN Xidmət | 2026 |
+
+## 📚 Web Development Lessons & Learning
+
+I also work on **practical web development lessons**, focusing on HTML, CSS, JavaScript, responsive layouts, and frontend fundamentals. I apply these concepts to hands-on projects and continue developing my skills in React, Next.js, and full-stack application development.
+
+**Learning focus:** Building accessible interfaces, integrating APIs, understanding client/server architecture, and following Git-based workflows.
+
+## 🏅 Certifications & Training
+
+- **Meta** — Programming in Python (Coursera)
+- **IBM** — Introduction to Cybersecurity Tools & Cyberattacks (Coursera)
+- **HP LIFE** — Critical Thinking in the AI Era
+- **Holberton School** — AI for Developers
+- **Code Academy** — AI Literacy & Foundation *(in progress)*
+
+## 📊 GitHub Activity
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=etikhacker&show_icons=true&theme=transparent&hide_border=true" alt="Omar's GitHub statistics" height="165" />
+  <img src="https://streak-stats.demolab.com?user=etikhacker&theme=transparent&hide_border=true" alt="GitHub contribution streak" height="165" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=etikhacker&layout=compact&theme=transparent&hide_border=true" alt="Most used languages in public GitHub repositories" height="165" />
+</p>
+
+## 🐍 Contribution Activity
+
+<p>
+  <img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake animation" />
+</p>
 
 ---
 
-### 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/etikhacker/etikhacker/output/github-contribution-grid-snake.svg" alt="snake animation" />
-
-<!-- To activate the snake animation, add a .github/workflows/snake.yml file to the repo -->
+<p align="center">
+  <strong>Building useful software, learning continuously, and exploring what's possible with AI.</strong><br />
+  <a href="https://www.linkedin.com/in/omar-babayev-21888437b">LinkedIn</a> ·
+  <a href="https://portfolio-omar-babayev.vercel.app">Portfolio</a> ·
+  <a href="https://github.com/etikhacker?tab=repositories">Repositories</a>
+</p>
