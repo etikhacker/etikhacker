@@ -1,20 +1,39 @@
-name: Generate Snake Animation
+name: Generate Profile Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *" # hər gün gecə saat 00:00-da işə düşür
-  workflow_dispatch: {} # əl ilə də işə salmaq mümkündür (Actions tabından)
+    - cron: "0 0 * * *" # Daily at 00:00 UTC
+  workflow_dispatch:
   push:
     branches:
       - master
+    paths:
+      - "README.md"
+      - ".github/workflows/snake.yml"
+      - ".github/scripts/**"
+  pull_request:
+    branches:
+      - master
+    paths:
+      - "README.md"
+      - ".github/workflows/snake.yml"
+      - ".github/scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-assets-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     steps:
-      - name: Generate the snake game from GitHub contribution grid
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: etikhacker
@@ -22,7 +41,44 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push output to "output" branch
+      # Platane/snk runs in Docker and may create root-owned SVG files.
+      - name: Fix generated SVG file permissions
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
+      - name: Clip snake to contribution grid
+        run: |
+          python3 .github/scripts/trim_snake.py \
+            dist/github-contribution-grid-snake.svg \
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Generate self-hosted GitHub statistics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_PROFILE_USER: etikhacker
+        run: python3 .github/scripts/generate_stats.py dist
+
+      - name: Validate generated SVG assets
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree
+          paths = [
+              "github-contribution-grid-snake.svg",
+              "github-contribution-grid-snake-dark.svg",
+              "github-overview.svg",
+              "github-languages.svg",
+          ]
+          for name in paths:
+              file = Path('dist') / name
+              if not file.is_file():
+                  raise SystemExit(f'Missing SVG asset: {file}')
+              ElementTree.parse(file)
+              print(f'Valid SVG: {file}')
+          PY
+
+      # PRs only validate assets; only the default branch may publish.
+      - name: Publish all profile assets to output branch
+        if: github.event_name != 'pull_request'
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
