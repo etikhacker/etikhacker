@@ -41,6 +41,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # Platane/snk runs in Docker and may create root-owned SVG files.
+      - name: Fix generated SVG file permissions
+        run: sudo chown -R "$(id -u):$(id -g)" dist
+
       - name: Clip snake to contribution grid
         run: |
           python3 .github/scripts/trim_snake.py \
