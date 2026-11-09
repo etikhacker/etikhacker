@@ -145,7 +145,7 @@ def svg_card(title: str, subtitle: str, inner: str, height: int = 215) -> str:
 
 def make_overview(repositories: list[dict], metrics: tuple[int, int] | None) -> str:
     contributions = str(metrics[0]) if metrics else "N/A"
-    streak = f"{metrics[1]} days" if metrics else "N/A"
+    streak = f"{metrics[1]} day{'s' if metrics[1] != 1 else ''}" if metrics else "N/A"
     values = [
         ("Contributions (12m)", contributions),
         ("Public repositories", str(len(repositories))),
